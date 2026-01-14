@@ -7,8 +7,9 @@ I'm a web developer from the Philippines.
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge)](https://johnsarmiento.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srmntz)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=googleearth&logoColor=white)](https://johnsarmiento.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=googlechat&logoColor=white)](https://www.linkedin.com/in/srmntz)
+[![resume](https://img.shields.io/badge/resume-ffc300?style=for-the-badge&logo=googledrive&logoColor=003566)](https://drive.google.com/file/d/1RTJ-wmU4uKC1jUGncYIpUhBwzY9aCKdB/view?usp=sharing)
 
 
 ## 🛠 Tech Stack
@@ -30,6 +31,9 @@ I'm a web developer from the Philippines.
 [![prismaorm](https://img.shields.io/badge/prisma_orm-black?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/orm)
 [![zod](https://img.shields.io/badge/zod-3b82f6?style=for-the-badge&logo=zod&logoColor=white)](https://zod.dev/)
 
+
+## 📫 Contact Me
+- Email: **john.sarmiento452@gmail.com**
 
 
 
