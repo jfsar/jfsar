@@ -22,7 +22,6 @@ I'm a web developer from the Philippines.
 [![reacthookform](https://img.shields.io/badge/react_hook_form-ec5990?style=for-the-badge&logo=reacthookform&logoColor=white)](https://react-hook-form.com/)
 [![nextdotjs](https://img.shields.io/badge/Next.JS-000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![reactquery](https://img.shields.io/badge/React_Query-fd9a00?style=for-the-badge&logo=reactquery&logoColor=white)](https://tanstack.com/query/latest/docs/framework/react/overview)
-![postgresql](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 [![supabase](https://img.shields.io/badge/supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 [![vscodium](https://img.shields.io/badge/vscodium-1a5fb4?style=for-the-badge&logo=vscodium&logoColor=white)](https://vscodium.com/)
 [![html5](https://img.shields.io/badge/html-red?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
