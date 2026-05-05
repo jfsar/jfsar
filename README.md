@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a web developer from the Philippines.
+Experienced in building scalable web applications with modern frameworks and tools.
 
 
 ## 🔗 Links
