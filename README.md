@@ -5,12 +5,6 @@
 ## 🚀 About Me
 Experienced in building scalable web applications with modern frameworks and tools.
 
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=googleearth&logoColor=white)](https://johnsarmiento.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=googlechat&logoColor=white)](https://www.linkedin.com/in/srmntz)
-
-
 ## 🛠 Tech Stack
 [![git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
